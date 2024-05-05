@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### curecode11 this side 😎
 ### I'm from India 🚩
-#### I have working knowledge with **HTML**, **CSS**, **JavaScript**, and **react**.
-#### I have also keen interest in learing backend technologies such as **Node.js** and frameworks like **Express.js**.
+#### I have working knowledge with **HTML**, **CSS**, **JavaScript**, and **React**.
+#### I have also keen interest in learning backend technologies such as **Node.js** and frameworks like **Express.js**.
 
 
 <!--
