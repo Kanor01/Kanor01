@@ -1,4 +1,9 @@
 ### Hi there 👋
+### curecode11 this side 😎
+### I'm from India 🚩
+#### I have working knowledge with **HTML**, **CSS**, **JavaScript**, and **react**.
+#### I have also keen interest in learing backend technologies such as **Node.js** and frameworks like **Express.js**.
+
 
 <!--
 **Kanor01/Kanor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
